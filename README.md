@@ -1,4 +1,4 @@
-# Clustericious::Coder::BSON [![Build Status](https://secure.travis-ci.org/plicease/Clustericious-Coder-BSON.png)](http://travis-ci.org/plicease/Clustericious-Coder-BSON)
+# Clustericious::Coder::BSON [![Build Status](https://secure.travis-ci.org/clustericious/Clustericious-Coder-BSON.png)](http://travis-ci.org/clustericious/Clustericious-Coder-BSON)
 
 BSON encoder for AutodataHandler
 
