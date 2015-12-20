@@ -62,7 +62,6 @@ get '/mytest' => sub {
 post '/mytest' => sub {
   my($c) = @_;
   my $data = $c->parse_autodata;
-  $DB::single = 1;
   $c->stash->{autodata} = { answer => $data->{a} + $data->{b} };
 };
 
