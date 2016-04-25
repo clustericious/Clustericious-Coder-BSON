@@ -17,7 +17,7 @@ will automatically handle [BSON](https://metacpan.org/pod/BSON) encoded requests
 
 # AUTHOR
 
-Graham Ollis &lt;plicease@cpan.org>
+Graham Ollis <plicease@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
